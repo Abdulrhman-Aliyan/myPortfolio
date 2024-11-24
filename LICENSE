@@ -1,4 +1,4 @@
-MIT License
+MIT License with Attribution
 
 Copyright (c) 2024 Abdulrhman Aliyan
 
@@ -11,6 +11,11 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+In addition, any usage of this Software must:
+1. Provide appropriate credit by referencing the original author, Abdulrhman Aliyan.
+2. Include a link to the original repository: https://github.com/Abdulrhman-Aliyan/myPortfolio.
+3. Indicate if changes were made to the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
